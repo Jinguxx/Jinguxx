@@ -1,7 +1,7 @@
 ## Hi! I'm Jing 👋
 
 # 💫 About Me:
-👋 I'm an aspiring software engineer and analyst from Miami<br>👩🏻‍🎓 Just Graduated with a Master's in Business Analytics from Northeastern University<br>👩‍🏫 Right now I'm working on personal growth in my career field<br>❤️ I'm passionate about leveraging technology to drive efficiency, and enhance user experiences through data-driven analysis, and software development. <br>🧋 My hobbies are food photography and painting<br>🛠️ Have skills in Python, Java, SQL, C, C++, and R
+👋 I'm an aspiring software engineer from Miami<br>👩🏻‍🎓 Just Graduated with a Master's in Business Analytics from Northeastern University<br>👩‍🏫 Right now I'm working on personal growth in my career field<br>❤️ I'm passionate about leveraging technology to drive efficiency, and enhance user experiences through data-driven analysis, and software development. <br>🧋 My hobbies are food photography and painting<br>🛠️ Have skills in Python, Java, SQL, C, C++, and R
 
 
 ## 🌐 Socials:
